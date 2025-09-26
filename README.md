@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 The primary goal of this project was to analyze coffee shop sales data and build an **interactive Excel dashboard** that highlights key performance indicators (KPIs) such as:
 
 - Sales revenue
@@ -22,7 +22,7 @@ This enables faster and more **data-driven decision-making**.
 
 ---
 
-## 📊 Data Overview
+## Data Overview
 - **Dataset:** ~5,000+ transaction records with 20+ attributes  
 - **Key Fields:** Transaction ID, Date & Time, Store Location, Product Category, Product Type, Unit Price, Quantity, Sales Value  
 - **Coverage:** Multiple store locations and product categories (Coffee, Tea, Bakery, etc.)
@@ -45,7 +45,7 @@ This enables faster and more **data-driven decision-making**.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Excel  
 - Pivot Tables & Pivot Charts  
 - Slicers & Timelines for interactivity  
@@ -54,7 +54,7 @@ This enables faster and more **data-driven decision-making**.
 
 ---
 
-## 📈 Key Insights & Results
+## Key Insights & Results
 - Processed **5K+ transactions** to derive actionable insights  
 - **Top-performing products:** Brewed herbal tea & espresso drinks  
 - **Best-performing store:** Astoria branch consistently led in sales  
@@ -64,7 +64,7 @@ This enables faster and more **data-driven decision-making**.
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 This dashboard allows management to:  
 - Optimize **staff scheduling**  
 - Improve **inventory management**  
@@ -72,15 +72,15 @@ This dashboard allows management to:
 
 ---
 
-## 🔗 Image
-![Dashboard Preview](file:///C:/Users/vivek%20kumar/OneDrive/Pictures/Screenshots/Image.png)
+## Image
+![Dashboard Preview]([file:///C:/Users/vivek%20kumar/OneDrive/Pictures/Screenshots/Image.png](https://github.com/AnalyzewithVivek/Coffee-sales-dashboard-Excel/blob/main/Image.png))
 
 ---
 
 <p align="center">
 
 
-  ## 📞 Contact Me
+  ## Author
 - **Name:** Vivek Kumar  
 - **Email:** [vivekkumar04x@gmail.com](mailto:vivekkumar04x@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/vivek-kumar](www.linkedin.com/in/vivekkumar2002)
