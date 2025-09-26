@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</p>
-
 <h1 align="center">☕ Coffee Sales Dashboard</h1>
 
 <p align="center">
@@ -73,7 +69,7 @@ This dashboard allows management to:
 ---
 
 ## Image
-![Dashboard Preview]([file:///C:/Users/vivek%20kumar/OneDrive/Pictures/Screenshots/Image.png](https://github.com/AnalyzewithVivek/Coffee-sales-dashboard-Excel/blob/main/Image.png))
+![Dashboard Preview](Image.png)
 
 ---
 
